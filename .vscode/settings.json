@@ -1,0 +1,11 @@
+{
+    "idf.portWin": "COM5",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "D:/BKU/CO3038/IoT_Lab_2/Lab_2/lib/ArduinoJson/src",
+    "files.associations": {
+        "array": "cpp"
+    }
+}
