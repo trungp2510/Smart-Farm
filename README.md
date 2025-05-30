@@ -25,7 +25,7 @@ A real-time environmental monitoring and remote control system for smart farming
 
 ## 📡 Cloud Platform
 
-- [ThingsBoard IoT Platform](https://thingsboard.io/)
+- [CoreIoT Platform](https://coreiot.io/)
   - Used for telemetry visualization, remote RPC control, and attribute updates.
 
 ## 🔗 Wiring Overview
